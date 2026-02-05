@@ -20,7 +20,6 @@
 ### Frontend & UI
 - **Framework**: [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **State**: [Zustand](https://zustand-demo.pmnd.rs/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 
